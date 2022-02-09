@@ -56,7 +56,7 @@
   <body>
     <h1 id="h1"> Dapp API Examples</h1>
   
-    <img src="https://raw.githubusercontent.com/ln1778/dapp-sdk-doc/main/qrcode.png">
+    <img src="https://raw.githubusercontent.com/ln1778/dapp-sdk-doc/main/qrcode.png" style="width:150px;height:150px">
     <i>Use hwaToken2.0 DApp browser scan this qrCode to view exmaples.</i>
   
   
